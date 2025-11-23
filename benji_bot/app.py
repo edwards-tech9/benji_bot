@@ -259,11 +259,11 @@ if auth_status:
                         box-shadow: 0 3px 8px rgba(0,0,0,0.25);
                         transition: all 0.2s;
                     " onmouseover="this.style.background='#111'" onmouseout="this.style.background='#000'">
-                        Made a Benji? Buy me a coffee
+                        Did I help you make you a Benji? Buy me a coffee then, MF!
                     </button>
                 </a>
                 <p style="font-size: 0.8em; color: #555; margin-top: 10px;">
-                    — Built by Grok & Edward
+                    — Welcome, my Son. Welcome to the Machine.
                 </p>
             </div>
             """, unsafe_allow_html=True)
