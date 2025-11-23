@@ -9,3 +9,4 @@ python-telegram-bot==20.7
 praw==7.7.1
 python-dotenv==1.0.0
 bcrypt==4.1.2
+requests==2.31.0
