@@ -3,7 +3,7 @@ streamlit-authenticator==0.3.1
 yfinance==0.2.36
 vaderSentiment==3.3.2
 scikit-learn==1.4.0
-pandas==2.1.4
+pandas==2.2.3
 numpy==1.26.3
 python-telegram-bot==20.7
 praw==7.7.1
